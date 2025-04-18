@@ -1,1 +1,2 @@
 # Dimensional_eROSion
+A SageMath implementation of the polynomial attack against the ROS problem following the paper [Dimensional eROSion](https://eprint.iacr.org/2025/306), by Antoine Joux, Julian Loss and Giacomo Santato (2025).
